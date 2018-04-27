@@ -23,6 +23,7 @@
 * FR [CERT SocceteGenerale](https://twitter.com/CertSG) - EN
 * GB [CERT-UK](https://twitter.com/CERT_UK) - EN
 * HR [HR-CERT](https://twitter.com/HRCERT) - HR
+* IE [IRISS](https://twitter.com/irisscert) - EN
 * IN [CERT-In](https://twitter.com/IndianCERT) - EN
 * IT [CERT-PA](https://twitter.com/certpa) - IT
 * JP [JPCERT/CC](https://twitter.com/jpcert_en) - EN 
